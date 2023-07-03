@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/JAVA%-8A2BE2)   
+🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/java-8A2BE2)   
 
 ![](https://github-readme-stats.vercel.app/api?username=ZZH86&theme=synthwave)
 
