@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h2> Hi, I'm huI Cao! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ZZH86)
 <!--
 **ZZH86/ZZH86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
