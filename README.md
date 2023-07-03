@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ![](https://github-readme-stats.vercel.app/api?username=ZZH86&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZH86&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
