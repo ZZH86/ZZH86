@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/java-8A2BE2) ![Static Badge](https://img.shields.io/badge/redis-8A2BE2) ![Static Badge](https://img.shields.io/badge/springboot-8A2BE2) ![Static Badge](https://img.shields.io/badge/go-8A2BE2)
+- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/java-8A2BE2) ![Static Badge](https://img.shields.io/badge/redis-blue) ![Static Badge](https://img.shields.io/badge/springboot-8A2BE2) ![Static Badge](https://img.shields.io/badge/go-8A2BE2)
 - 👯 I’m looking to collaborate on ![Static Badge](https://img.shields.io/badge/learn%20backend%20development-8A2BE2)
 
 
