@@ -22,3 +22,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ZZH86&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZH86&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
