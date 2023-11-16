@@ -16,7 +16,7 @@
 -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/java-8A2BE2) ![Static Badge](https://img.shields.io/badge/redis-8A2BE2) ![Static Badge](https://img.shields.io/badge/springboot-8A2BE2) ![Static Badge](https://img.shields.io/badge/go-8A2BE2)
+- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/java-8A2BE2) ![Static Badge](https://img.shields.io/badge/redis-8A2BE2) ![Static Badge](https://img.shields.io/badge/springboot-8A2BE2) ![Static Badge](https://img.shields.io/badge/springcloud-8A2BE2)
 - 👯 I’m looking to collaborate on ![Static Badge](https://img.shields.io/badge/learning%20backend%20development-8A2BE2)
 
 
