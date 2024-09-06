@@ -18,7 +18,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/java-8A2BE2) ![Static Badge](https://img.shields.io/badge/redis-8A2BE2) ![Static Badge](https://img.shields.io/badge/springboot-8A2BE2) ![Static Badge](https://img.shields.io/badge/springcloud-8A2BE2)
 - 👯 I’m looking to collaborate on ![Static Badge](https://img.shields.io/badge/learning%20backend%20development-8A2BE2)
-- ![](xiaomi.svg) I interned as a Java backend developer in the Payment team at Xiaomi's Sales and Service R&D Department.
+- <img src="xiaomi.svg" width="30"> I interned as a Java backend developer in the Payment team at Xiaomi's Sales and Service R&D Department.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ZZH86&theme=synthwave)
